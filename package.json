@@ -47,7 +47,7 @@
     "grunt-legacy-util": "~0.2.0",
     "hooker": "~0.2.3",
     "iconv-lite": "~0.2.11",
-    "js-yaml": "~2.0.5",
+    "js-yaml": "https://github.com/blacktail/js-yaml/archive/3.3.2.tar.gz",
     "lodash": "~0.9.2",
     "minimatch": "~0.2.12",
     "nopt": "~1.0.10",
